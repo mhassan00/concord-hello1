@@ -1,4 +1,4 @@
 ---
 flows:
   default:
-    - log: "Hello Concord, branch copy"
+    - log: "Hello Concord, branch copy - 2"
